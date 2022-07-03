@@ -15,7 +15,7 @@
 <h3 align="left">Connect With Me</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/surupan nandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surupan nandi" height="30" width="40" /></a>
-<a href="https://discord.gg/https://dsc.gg/surupan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/surupan" height="30" width="40" /></a>
+<a href="https://dsc.gg/surupan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/surupan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages And Tools</h3>
